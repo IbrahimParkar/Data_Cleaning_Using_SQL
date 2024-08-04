@@ -88,22 +88,6 @@ The dataset used for this analysis is `layoffs-dataset.csv`, which is sourced fr
 14. **Rolling Total of Layoffs per Month Using CTE**:
     - Calculated rolling totals of layoffs per month using a Common Table Expression (CTE).
 
-## How to Run
-
-1. **Clone the Repository**:
-   ```sh
-   git clone https://github.com/yourusername/layoffs-analysis.git
-   ```
-
-2. **Access the SQL Scripts**:
-   - Open `Data Cleaning.sql` and `EDA.sql` in your SQL client to review and execute the queries.
-
-3. **Connect to the Database**:
-   - Ensure you have access to the `world_layoffs` database.
-
-4. **Run the SQL Scripts**:
-   - Execute the scripts in your SQL environment to perform data cleaning and analysis.
-
 ## Resources
 
 - **MySQL Documentation**: [MySQL Official Documentation](https://dev.mysql.com/doc/)

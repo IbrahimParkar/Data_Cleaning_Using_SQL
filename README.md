@@ -1,4 +1,4 @@
-# Data Cleaning and EDA In MySQL
+# Data Cleaning and EDA Using SQL
 This project involves data cleaning and exploratory data analysis (EDA) on a "layoffs" dataset. The analysis is performed using SQL to gain insights into "layoffs" trends, company performance, and industry impacts.
 
 ## Project Overview
